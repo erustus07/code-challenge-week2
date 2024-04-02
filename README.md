@@ -24,7 +24,7 @@ Git clone git@github.com:erustus07/erustus-codechallenge2.git
 ```
 
 # Live Link
-https://github.com/erustus07/erustus-codechallenge2.git
+ https://erustus07.github.io/erustus-codechallenge2/
 
 ## Technologies used
 HTML
