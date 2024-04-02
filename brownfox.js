@@ -6,4 +6,4 @@ function swapCase(str) {
 }
 
 // Usage Example
-console.log(swapCase('The Quick Brown Fox')); // tHE qUICK bROWN fOX
+console.log(swapCase('The Quick Brown Fox Jumped Over The Fence'));

@@ -1,6 +1,6 @@
-# (code challenge week2)
 
-#### Date, 2024/04/01
+### erustus-codechallenge2
+### Date, 2024/04/01
 
 #### By *Erustus Ndegwa*
 
@@ -14,18 +14,26 @@ It comprises of 3 files
      > a function that takes an array of numbers as input and
        returns a new array containing only the prime numbers from the original array.
 
-## Installation
-You use git clone to be able to download the documents in the GitHub
-
 ## Installation Requirements
 Git
 
+### Installation instruction
+```
+Git clone git@github.com:erustus07/erustus-codechallenge2.git
+
+```
+
+# Live Link
+https://github.com/erustus07/erustus-codechallenge2.git
+
 ## Technologies used
+HTML
+CSS
 Github
 Javascript
 
 ## Support and contact details
-erustusndegwa08@gmail.com
+github.com/erustus07
 
 ### License
 The content of this site is licensed under the MIT license
